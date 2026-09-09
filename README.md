@@ -1,16 +1,26 @@
-## Hi there 👋
+# Carlos González Orellana
 
-<!--
-**CarlosGonzalez7/CarlosGonzalez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Economist interested in macroeconomics, econometrics, data analysis, and computational tools for economic research.
 
-Here are some ideas to get you started:
+## Areas of interest
+- Macroeconomics
+- Applied Econometrics
+- Macro-financial Analysis
+- Time Series
+- Data Analysis and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Stata
+- R
+- Matlab / Dynare
+- Python
+- SQL
+- Git / GitHub
+
+## Featured projects
+
+### Observatorio Económico de Chile
+Interactive dashboard for exploring, visualizing, and downloading macroeconomic and financial indicators for Chile.
+
+- Demo: https://panel-economico-chile.onrender.com/
+- Code: https://github.com/CarlosGonzalez7/panel_economico_chile
